@@ -1,0 +1,30 @@
+body{
+	border: 10px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	font-family: Source Sans pro;
+}
+
+h3{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem; 
+
+	/*root emp and there is also an 'em' for enlarging fonts with their base */
+	/*float is used to cascade images or text or div etc*/
+	/*<hr> is used as horizontal rule to break the paragraph etc*/
+}
+
+
+h2{
+	color: #2c3e50;
+	font-size: 30px;
+}
+
+.xyz{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+} 
+
